@@ -563,3 +563,9 @@ html.js .js-webform-message--close-storage {
 .sitewide-alert .field--name-message {
   display: inline-block;
 }
+
+.hero__headline-container {
+  background-image: url(https://risd.edu/sites/default/files/styles/hero_homepage_default/public/2021-08/halo-yun-bfa-textiles.jpg?itok=zxGY1NOm);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
